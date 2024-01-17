@@ -1,1 +1,1 @@
-from docker.io/nginx
+from hub.c.163.com/library/nginx:latest
